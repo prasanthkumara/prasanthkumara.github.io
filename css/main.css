@@ -1,0 +1,23 @@
+.home
+{
+	background-color: #27ae60;
+	color:#ffffff;
+	text-align:center;
+}
+.head-liner
+{
+	margin-top:10%;
+	color:#ffffff;
+	margin-left:60px;
+	margin-right:60px;
+}
+.head-liner h1
+{
+	font-size:50px;
+	font-weight:bold;
+	line-height:100px;
+}
+.head-liner .fa
+{
+	margin-top:-10px;
+}
